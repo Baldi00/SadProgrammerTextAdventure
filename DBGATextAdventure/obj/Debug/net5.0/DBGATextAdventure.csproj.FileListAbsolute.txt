@@ -1,0 +1,16 @@
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\bin\Debug\net5.0\DBGATextAdventure.exe
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\bin\Debug\net5.0\DBGATextAdventure.deps.json
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\bin\Debug\net5.0\DBGATextAdventure.runtimeconfig.json
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\bin\Debug\net5.0\DBGATextAdventure.runtimeconfig.dev.json
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\bin\Debug\net5.0\DBGATextAdventure.dll
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\bin\Debug\net5.0\ref\DBGATextAdventure.dll
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\bin\Debug\net5.0\DBGATextAdventure.pdb
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\obj\Debug\net5.0\DBGATextAdventure.csproj.AssemblyReference.cache
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\obj\Debug\net5.0\DBGATextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\obj\Debug\net5.0\DBGATextAdventure.AssemblyInfoInputs.cache
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\obj\Debug\net5.0\DBGATextAdventure.AssemblyInfo.cs
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\obj\Debug\net5.0\DBGATextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\obj\Debug\net5.0\DBGATextAdventure.dll
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\obj\Debug\net5.0\ref\DBGATextAdventure.dll
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\obj\Debug\net5.0\DBGATextAdventure.pdb
+C:\Users\dbga_06\GitHub\DBGATextAdventure\DBGATextAdventure\obj\Debug\net5.0\DBGATextAdventure.genruntimeconfig.cache
