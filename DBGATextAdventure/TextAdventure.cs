@@ -1,9 +1,13 @@
 ﻿using System;
+using System.Threading;
 
 namespace DBGATextAdventure
 {
     class TextAdventure
     {
+
+        private static int CHAR_INTERVAL = 30;
+        private static int PHRASE_INTERVAL = 300;
         static void Main(string[] args)
         {
             string choise;
@@ -128,7 +132,14 @@ namespace DBGATextAdventure
 
         public static void Write(string phrase)
         {
-            Console.WriteLine(phrase);
+            char[] phraseChars = phrase.ToCharArray();
+            foreach(char c in phraseChars)
+            {
+                Console.Write(c);
+                Thread.Sleep(CHAR_INTERVAL);
+            }
+            Console.WriteLine();
+            Thread.Sleep(PHRASE_INTERVAL);
         }
 
         public static string RequestWhatToDo(string[] accepted)
@@ -137,13 +148,8 @@ namespace DBGATextAdventure
 
             do
             {
-                Console.Write("What do you do? (");
-                foreach (string s in accepted)
-                {
-                    Console.Write(s + ", ");
-                }
-                Console.WriteLine("\b\b)");
-
+                string request = "What do you do? (" + String.Join(", ", accepted) + ")";
+                Write(request);
                 choise = Console.ReadLine().ToLower();
                 Console.WriteLine();
 
